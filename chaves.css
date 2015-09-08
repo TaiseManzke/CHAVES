@@ -1,0 +1,43 @@
+body{
+	font-family: tahoma;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 5px 5px 5px 5px;
+
+}
+h1{
+	font-size: 50px;
+	background-color: green;
+	color: white;
+	font-weight: bold;
+}
+h2{
+	font-size: 35px;
+	background-color: green;
+	color: white;
+	font-style: italic;
+}
+.cabecalho{
+	font-size: 15px;
+	text-align: right;
+	font-style: italic;
+	text-decoration: underline;
+}
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+.madruga{
+	color: blue;
+}
+.chiquinha{
+	color: green;
+}
+.kiko{
+	color: red;
+}
+.elenco{
+	text-align: center;
+}
